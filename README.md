@@ -10,5 +10,5 @@ A LightCyber é uma empresa de recrutamento, treinamento e seleção de candidat
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/95362445?v=4" width=115><br><sub>Leonardo Duarte</sub>](https://github.com/leo-md) |  [<img src="#" width=115><br><sub>Próximo Autor</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/95362445?v=4" width=115><br><sub>Leonardo Duarte</sub>](https://github.com/leo-md) |  [<img src="#" width=115><br><sub>Próximo Autor</sub>]() |
 | :---: | :---: |
