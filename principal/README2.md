@@ -1,1 +1,0 @@
-Para acesso ao GitHubPages
